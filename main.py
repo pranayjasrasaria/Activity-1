@@ -1,0 +1,5 @@
+print ("Welcome to the python world")
+print("4")
+print("hellow python /n")
+print("hellow,5")
+print("Welcome to",end="*")
